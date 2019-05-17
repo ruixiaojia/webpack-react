@@ -1,0 +1,6 @@
+//loader 的可选项
+{
+    //预先设置，参考babel的预先设置
+    presets: ['env', 'react'],
+    plugins: ['transform-class-properties']
+}
